@@ -59,8 +59,8 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrien04hz&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrien04hz&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrien04hz&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrien04hz&layout=compact&theme=github_dark" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrien04hz&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrien04hz&theme=github_dark" />
 </p>
