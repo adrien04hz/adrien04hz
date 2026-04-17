@@ -1,20 +1,14 @@
-# Hi 👋, I'm Adrien Hernández Sánchez
+# I'm Adrien Hernández Sánchez
 
 ### Turning ideas into software through clean code and continuous learning.
 
-- 🌱 I'm currently learning **React Native and Flutter with Dart.**
+- I'm currently learning **React Native and Flutter with Dart.**
 
-- 📫 How to reach me **adrien.ahs@gmail.com or hesa041118@gs.utm.mx**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/adrien04hz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="adrien04hz" height="30" width="40" /></a>
-</p>
+- How to reach me **adrien.ahs@gmail.com or hesa041118@gs.utm.mx**
 
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
-  <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a>
@@ -53,7 +47,6 @@
      <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a>
-    </div>
 </div>
 
 
