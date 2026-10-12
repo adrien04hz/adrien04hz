@@ -2,7 +2,7 @@
 
 ### Turning ideas into software through clean code and continuous learning.
 
-- I'm currently learning **React Native and Flutter with Dart.**
+- I'm currently learning **DevOps & AWS.**
 
 - How to reach me **adrien.ahs@gmail.com or hesa041118@gs.utm.mx**
 
