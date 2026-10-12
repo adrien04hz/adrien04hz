@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,c,cpp,cs,css,dart,docker,express,fastapi,figma,flutter,git,haskell,html,java,js,jest,linux,matlab,mongodb,mysql,nextjs,nodejs,opencv,php,postgres,postman,py,qt,react,redux,scikitlearn,tailwind,ts,unity,aws" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,bash,dart,docker,express,fastapi,figma,flutter,git,js,linux,matlab,mongodb,mysql,nextjs,nodejs,postgres,postman,py,react,redux,scikitlearn,tensorflow,tailwind,ts,unity,aws" />
 </div>
 
 <br/><br/>
